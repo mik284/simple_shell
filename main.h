@@ -8,7 +8,11 @@
 #include <sys/types.h>
 #include <unistd.h>
 #include <errno.h>
+<<<<<<< HEAD
 /*#include <sys/wait.h>*/
+=======
+#include <sys/wait.h>
+>>>>>>> 9f9b277ef8df0af0a4d78ee7c63a8c5c7149b147
 
 extern char **environ;
 
