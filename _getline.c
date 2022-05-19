@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-*_getline - gets line of input from the standard input
-*
-*Return: pointer to the string retrieved from stdin
-*/
+ *_getline - gets line of input from the standard input
+ *
+ *Return: pointer to the string retrieved from stdin
+ */
 
 char *_getline(void)
 {

@@ -24,7 +24,6 @@ typedef struct Builtins
 	void (*function)(char *input);
 } builtins;
 
-
 char *_getline(void);
 int word_count(char *str);
 char **split_string(char *str, char *delim);
